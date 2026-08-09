@@ -4,8 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+strong+CS+fundamentals+%F0%9F%A7%A0;Learning+Full+Stack+Development+%F0%9F%92%BB;Solving+DSA+problems+daily+%F0%9F%94%A5;Open+to+Software+Engineering+roles+%F0%9F%9A%80" alt="Typing SVG" />
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2E9EF7&style=flat" />
+<a href="https://github.com/Anandtripathi77
+">
+  <img src="https://komarev.com/ghpvc/?username=Anandtripathi77
+&label=Profile%20Views&color=2E9EF7&style=flat" />
 </a>
 
 </div>
@@ -101,13 +103,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anandtripathi77
+&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandtripathi77
+&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandtripathi77
+&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anandtripathi77
+&theme=tokyo-night&hide_border=true" height="165"/>
 </div>
 
 <br/>
@@ -115,7 +121,8 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Anandtripathi77
+&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
 
 <br/>
@@ -123,7 +130,8 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Anandtripathi77
+/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 > ℹ️ To activate the snake animation above, set up the [platane/snk](https://github.com/Platane/snk) GitHub Action on your profile repo.
